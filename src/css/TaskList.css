@@ -1,0 +1,15 @@
+.TaskList{
+  background: #BADA55;
+  height: 94%;
+  overflow-y: scroll;
+  box-shadow: inset 1px 1px 3px #000;
+}
+.TaskList h2{
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: bold;
+  border-bottom: 2px dashed #000;
+}
+.TaskList p{
+  padding: 5px;
+}

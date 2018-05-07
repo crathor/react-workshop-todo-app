@@ -1,0 +1,12 @@
+.ToDoApp{
+  width: 30vw;
+  height: 60vh;
+  background: #008236;
+  padding: 30px;
+  border-radius: 3%;
+  display: flex;
+  flex-flow: column;
+  justify-content: stretch;
+  box-shadow: inset 1px 1px 4px 8px hsl(145, 100%, 15%),
+  4px 4px 4px #000;
+}
